@@ -1,7 +1,7 @@
 ﻿Name: Godwin Victoria
 Matric Number: 22CH032013
 
-Live URL: https://llm-qa-osho-23cg034142.onrender.com
+Live URL: https://godwin-victoriia-22ch032013-assignment.onrender.com
 GitHub Repository: https://github.com/rise345/GODWIN_VICTORIIA_22CH032013_ASSIGNMENT-
 
 Instructions:
