@@ -1,0 +1,11 @@
+﻿Name: Godwin Victoria
+Matric Number: 22CH032013
+
+Live URL: https://llm-qa-osho-23cg034142.onrender.com
+GitHub Repository: https://github.com/rise345/GODWIN_VICTORIIA_22CH032013_ASSIGNMENT-
+
+Instructions:
+1. Deploy the application to Render.com
+2. Update this file with the actual live URL
+3. Update this file with your GitHub repository URL
+4. Ensure the repository is public for submission
